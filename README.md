@@ -18,7 +18,7 @@ This repository contains an end-to-end machine learning project on **credit card
 
 ## Key Insights
 - Fraud cases account for **<1%** of all transactions → confirms **severe imbalance**.  
-- Transaction amounts are **skewed** → log-transform helps normalization.  
+- Transaction amounts are **skewed**.  
 - Several feature groups with very high missing values (>80%) are dropped.  
 - Fraud rate varies by product type, confirming **product-related fraud risk patterns**.  
 
